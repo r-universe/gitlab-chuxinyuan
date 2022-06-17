@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ecce"]
+	path = ecce
+	url = https://gitlab.com/chuxinyuan/ecce
+	shallow = true
+	registered = true
+[submodule "entcn"]
+	path = entcn
+	url = https://gitlab.com/chuxinyuan/entcn
+	shallow = true
+	registered = true
+[submodule "ipkg"]
+	path = ipkg
+	url = https://gitlab.com/chuxinyuan/ipkg
+	shallow = true
+	registered = true
