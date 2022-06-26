@@ -8,11 +8,6 @@
 	url = https://gitlab.com/chuxinyuan/ecce
 	shallow = true
 	registered = true
-[submodule "entcn"]
-	path = entcn
-	url = https://gitlab.com/chuxinyuan/entcn
-	shallow = true
-	registered = true
 [submodule "ipkg"]
 	path = ipkg
 	url = https://gitlab.com/chuxinyuan/ipkg

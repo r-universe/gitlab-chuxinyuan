@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "entcn",
-    "oncran": true
-  },
-  {
     "package": "ipkg",
     "oncran": true
   }
